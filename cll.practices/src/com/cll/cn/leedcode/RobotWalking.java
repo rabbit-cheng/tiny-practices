@@ -14,6 +14,7 @@ public class RobotWalking {
         int n=in.nextInt();
 
         System.out.println(allWays(m, n));
+        System.out.println(4|7);
     }
 
     private static int allWays(int m, int n) {
